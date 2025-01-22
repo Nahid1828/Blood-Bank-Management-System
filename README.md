@@ -1,2 +1,2 @@
-# Blood-Bank-Management-System
-Database Project HTML, CSS, PHP, SQL.
+# blood_bank
+# blood_bank
